@@ -7,7 +7,7 @@ import Styler from "./styles";
 import "./styles/css/index.css";
 import "./styles/css/color.css";
 import "./styles/css/icons/google-icons.css";
-import "./styles/css/icons/tenox-icons.css";
+import "nosant-icon";
 
 const router = createBrowserRouter([
   {
